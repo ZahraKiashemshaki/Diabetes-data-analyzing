@@ -40,4 +40,4 @@ By achieving these objectives, this project provides a comprehensive analysis of
 
 Conclusion
 
-This project successfully demonstrates the application of logistic regression to predict the probability of diabetes based on glucose levels and age. Through detailed data cleaning, manipulation, and handling of missing values using Pandas and NumPy, we prepared a robust dataset suitable for modeling.
+This project successfully demonstrates the application of logistic regression to predict the probability of diabetes based on glucose levels and age. Through detailed data cleaning, manipulation, and handling of missing values using Pandas and NumPy, we prepared a robust dataset suitable for modeling..
