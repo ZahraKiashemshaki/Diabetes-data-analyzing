@@ -16,8 +16,8 @@ Data Cleaning and Preparation:
 
 Handling Missing and Zero Values: Utilizing Pandas and NumPy to identify and handle missing or zero values in the dataset.
 Filling Missing Values: Replacing missing or zero values with the mean of the respective columns to ensure the data is suitable for modeling.
-Model Training:
 
+Model Training:
 Training a logistic regression model using the Glucose and Age features to predict the Outcome (whether a patient has diabetes or not).
 Probability Prediction:
 
@@ -27,8 +27,8 @@ Threshold Calculation:
 
 Calculating the decision boundary or threshold where the probability of diabetes is 0.5.
 Understanding how this threshold can help in classifying patients based on their glucose levels.
-Visualization:
 
+Visualization:
 Creating visualizations to plot the predicted probabilities against glucose levels.
 Adding a vertical line to indicate the decision threshold, providing a clear visual representation of the model's decision-making process.
 Technologies and Libraries Used
